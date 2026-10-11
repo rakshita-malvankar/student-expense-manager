@@ -35,8 +35,7 @@ This project was developed to practice Python programming, graphical user interf
 
 Screenshots
 
-Screenshots of the application will be added here.
-
+Screenshot expense 2026-10-11 172435 .png
 Author
 
 Rakshita Malvankar
