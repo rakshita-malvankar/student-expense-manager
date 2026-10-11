@@ -41,6 +41,10 @@ The dashboard provides an overview of the student's expenses and budget. It disp
 
 ![Student Expense Manager Dashboard](./Screenshot%20expense%202026-10-11%20172435%20.png)
 
+Expense Chart
+
+The chart provides a visual representation of expense distribution. It helps user understand their spending across different categories
+
 ![Student Expense Manager Chart](./Screenshot%202%202026-10-11%20172629.png)
 
 Author
