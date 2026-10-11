@@ -41,7 +41,7 @@ The dashboard provides an overview of the student's expenses and budget. It disp
 
 ![Student Expense Manager Dashboard](./Screenshot%20expense%202026-10-11%20172435%20.png)
 
-![Student Expense Manager Chart](./Screenshot2%20expense%202026-10-11%20172629%20.png)
+![Student Expense Manager Chart](./Screenshot%202%202026-10-11%20172629.png)
 
 Author
 
