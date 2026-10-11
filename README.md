@@ -35,8 +35,7 @@ This project was developed to practice Python programming, graphical user interf
 
 Screenshots
 
-![Student Expense Manager]
-(Screenshot%20expense%202026-10-11%20172435%20.png)
+![Student Expense Manager](./Screenshot%20expense%202026-10-11%20172435%20.png)
 
 Author
 
