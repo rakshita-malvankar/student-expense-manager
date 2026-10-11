@@ -28,5 +28,4 @@ Screenshots of the application will be added here.
 Author
 Rakshita Malvankar
 Author
-
 Rakshita Malvankar
