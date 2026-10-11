@@ -35,7 +35,9 @@ This project was developed to practice Python programming, graphical user interf
 
 Screenshots
 
-![Dashboard](Screenshot expense 2026-10-11 172435 .png)
+![Student Expense Manager]
+(Screenshot%20expense%202026-10-11%20172435%20.png)
+
 Author
 
 Rakshita Malvankar
