@@ -23,6 +23,7 @@ How to Run
    "python "expense manager.py""
 
 Project Purpose
+
 This project was developed to practice Python programming, graphical user interface development, database operations, and expense management.
 
 Screenshots
