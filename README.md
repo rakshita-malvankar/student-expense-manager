@@ -35,6 +35,10 @@ This project was developed to practice Python programming, graphical user interf
 
 Screenshots
 
+Dashboard
+
+The dashboard provides an overview of the student's expenses and budget. It displays total expenses, the budget limit, and the remaining balance.
+
 ![Student Expense Manager](./Screenshot%20expense%202026-10-11%20172435%20.png)
 
 Author
