@@ -47,6 +47,12 @@ The chart provides a visual representation of expense distribution. It helps use
 
 ![Student Expense Manager Chart](./Screenshot%202%202026-10-11%20172629.png)
 
+Expense List
+
+This section displays recorded expenses along with their names, amounts, categories, and dates. Users can manage their expense records using the available edit and delete features
+
+![Student Expense Manager List](./Screenshot%203%202026-10-11%20172808.png)
+
 Author
 
 Rakshita Malvankar
