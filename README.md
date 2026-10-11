@@ -34,7 +34,9 @@ Project Purpose
 This project was developed to practice Python programming, graphical user interface development, database operations, and expense management.
 
 Screenshots
+
 Screenshots of the application will be added here.
 
 Author
+
 Rakshita Malvankar
